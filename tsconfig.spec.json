@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "types": ["jest", "node"],
+    "module": "esnext",
+    "target": "ES2016"
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
